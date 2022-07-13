@@ -22,3 +22,5 @@ As a bonus, the user should also have the option to click a button to copy the p
 Your application should have a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
 
 # Deployed App
+
+https://meo1984.github.io/passwordGenerator/
